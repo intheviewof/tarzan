@@ -1,6 +1,6 @@
 ! Title: Tarzan - Ads
 ! -------------------
-! Tarzan v0.03
+! Tarzan v0.05
 ! A custom uBlock Origin filter list, with no real goal in mind
 !
 ! foobar2000.org - block ads
