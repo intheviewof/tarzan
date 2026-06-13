@@ -1,6 +1,6 @@
 ! Title: Tarzan - Dynamic Filters
 ! -------------------
-! Tarzan v0.04
+! Tarzan v0.05
 ! A custom uBlock Origin filter list, with no real goal in mind
 ! Test
 ! 
