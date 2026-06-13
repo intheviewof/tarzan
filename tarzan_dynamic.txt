@@ -9,3 +9,5 @@ search.brave.com * 1p-script noop
 search.brave.com * 3p noop
 search.brave.com * 3p-frame noop
 search.brave.com * 3p-script noop
+! test: at the minimum let github load
+github.com githubassets.com * noop
