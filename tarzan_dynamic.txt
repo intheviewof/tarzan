@@ -2,13 +2,8 @@
 ! -------------------
 ! Tarzan v0.04
 ! A custom uBlock Origin filter list, with no real goal in mind
-!
-! These filters are required to activate dynamic filtering
-* * 1p-script block
-* * 3p block
-* * 3p-frame block
-* * 3p-script block
-
+! Test
+! 
 ! test: fix brave search
 search.brave.com * 1p-script noop
 search.brave.com * 3p noop
