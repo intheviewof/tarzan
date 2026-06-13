@@ -1,4 +1,4 @@
-! Tarzan - Ads v0.01
-! foobar2000.org
+! Title: Tarzan - Ads
+! Version: 0.02
 www.foobar2000.org##.slimad
 www.foobar2000.org##.floatad
