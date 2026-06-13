@@ -1,6 +1,7 @@
 # tarzan
 > [!WARNING]
-> tarzan is still in progress, and an infant project
+> tarzan is still in progress, and an infant project  
+
 a custom uBlock Origin list
 
 ## what is tarzan?
